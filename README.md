@@ -23,6 +23,8 @@ Repositories to be managed by the reasonml-community organization must fulfill t
 * The original author(s) and current maintainer(s) MUST either agree to the inclusion, or MUST NOT have made any significant contribution for the past three (3) months.
 * A repository SHOULD always have a maintainer, and MUST have a maintainer when first included. The maintainer must be, or become, a community member. See separate requirements for this.
 * A repository MAY have collaborators that are not organization members.
+* The maintainer must be given given admin rights to the repository to be able to move it.
+* If a package has been published to NPM, the maintainer and at least two other members must be given publishing rights.
 
 ### Member
 
