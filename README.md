@@ -42,6 +42,14 @@ The current maintainer of the repository should be noted in the repository readm
 
 **Maintainer:** [@AnonymousCoward](https://github.com/AnonymousCoward)
 
+or
+
+**Maintainer:** [@AnonymousCoward](https://github.com/AnonymousCoward) _(interim)_
+
+or
+
+**Maintainer:** [@AnonymousCoward](https://github.com/AnonymousCoward) _(acting, on behalf of [@AnonymousCoward](https://github.com/AnonymousCoward))_
+
 ### Administrator
 
 The administrator is the maintainer of the meta repository, and the organization as a whole. Any task that is organization-specific, or requires cross-repository coordination falls in the domain of adminstrator responsibility.
@@ -49,6 +57,14 @@ The administrator is the maintainer of the meta repository, and the organization
 The current administrator should be noted in the meta repository readme, just below the heading, in the following format:
 
 **Administrator:** [@AnonymousCoward](https://github.com/AnonymousCoward)
+
+or
+
+**Administrator:** [@AnonymousCoward](https://github.com/AnonymousCoward) _(interim)_
+
+or
+
+**Administrator:** [@AnonymousCoward](https://github.com/AnonymousCoward) _(acting, on behalf of [@AnonymousCoward](https://github.com/AnonymousCoward))_
 
 ## Process
 
